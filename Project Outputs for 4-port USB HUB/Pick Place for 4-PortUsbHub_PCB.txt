@@ -1,0 +1,73 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\Projects\4-port USB HUB\Project Outputs for 4-port USB HUB\Pick Place for 4-PortUsbHub_PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       01/08/22
+Time:       19:25
+Revision:   2f1839912aa51aa73b73f158d897ca6191bdc80c
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer    Footprint               Center-X(mm) Center-Y(mm) Rotation Description                                                                                                      
+Y1         12MHz             TopLayer FP-7M-MFG               11.1399      35.7897      180      "Crystal 12MHz, 10ppm, 10pF, 80O"                                                                                
+U1         GL850G-HHY22      TopLayer GL850G-HHY22            24.3479      37.6947      0        "SSOP-28 USB RoHS"                                                                                               
+R13        PTC               TopLayer FP-MF-PSMF-MFG          83.2759      15.2157      270      "PTC RESET FUSE 6V 500MA 0805"                                                                                   
+R12        PTC               TopLayer FP-MF-PSMF-MFG          5.9759       -5.6123      180      "PTC RESET FUSE 6V 500MA 0805"                                                                                   
+R11        PTC               TopLayer FP-MF-PSMF-MFG          -10.1961     71.6467      90       "PTC RESET FUSE 6V 500MA 0805"                                                                                   
+R10        PTC               TopLayer FP-MF-PSMF-MFG          65.4959      92.8127      0        "PTC RESET FUSE 6V 500MA 0805"                                                                                   
+R9         20k               TopLayer FP-CRCW1206-e3-MFG      39.2069      38.3297      90       "RES Thick Film, 20kO, 1%, 0.25W, 100ppm/°C, 1206"                                                               
+R8         10k               TopLayer FP-CR0805-IPC_A         36.5399      38.2027      270      "Thick Film Chip Resistors 0805 10kO 0.125W 1% 100ppm/°C"                                                        
+R7         470k              TopLayer FP-CRCW0805-e3-IPC_C    54.9549      37.9868      270      "RES Thick Film, 470kO, 1%, 0.125W, 100ppm/°C, 0805"                                                             
+R6         4.7k              TopLayer RESC2013X70X40NL20T20   58.1299      26.6317      90       "Chip Resistor, 4.7 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"             
+R5         470r              TopLayer RESC2013X70X40ML20T20   28.4119      25.5027      0        "Chip Resistor, 470 Ohm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"              
+R4         100k              TopLayer RESC2013X60X35ML10T20   29.4279      21.8197      90       "Chip Resistor, 100 KOhm, +/- 1%, 0.125 W, -55 to 155 degC, 0805 (2012 Metric), RoHS, Tape and Reel"             
+R3         47k               TopLayer FP-CRCW0603-e3-IPC_B    19.2213      29.9477      0        "RES SMD 47K OHM 1% 1/10W 0603"                                                                                  
+R2         10k               TopLayer FP-CR0805-IPC_A         19.9419      27.4077      0        "Thick Film Chip Resistors 0805 10kO 0.125W 1% 100ppm/°C"                                                        
+R1         680r              TopLayer FP-ERJ3EK-IPC_A         14.8229      43.5367      270      "RES SMD 680 OHM 1% 1/10W 0603"                                                                                  
+Q1         SQ2303ES-T1_BE3   TopLayer SOT95P237X112-3N        62.2549      26.6797      90       "MOSFET (P-Channel)"                                                                                             
+LED1       RED               TopLayer FP-LS_R976-MFG          27.0149      22.2007      90       "LED RED DIFFUSED 0805 SMD"                                                                                      
+L6         FBMH1608HL600-T_1 TopLayer FBMH1608HL600-T         92.0389      15.8215      90       "0603 60O ±25%
+DCR=45mO 2.1A"                                                                                   
+L5         FBMH1608HL600-T_1 TopLayer FBMH1608HL600-T         8.3167       -12.8513     0        "0603 60O ±25%
+DCR=45mO 2.1A"                                                                                   
+L4         FBMH1608HL600-T_1 TopLayer FBMH1608HL600-T         -19.9751     69.2199      270      "0603 60O ±25%
+DCR=45mO 2.1A"                                                                                   
+L3         FBMH1608HL600-T_1 TopLayer FBMH1608HL600-T         61.2757      102.9727     180      "0603 60O ±25%
+DCR=45mO 2.1A"                                                                                   
+L2         FBMH1608HL600-T_1 TopLayer FBMH1608HL600-T         40.7855      57.6591      180      "0603 60O ±25%
+DCR=45mO 2.1A"                                                                                   
+L1         FBMH1608HL600-T_1 TopLayer FBMH1608HL600-T         30.5709      33.7869      270      "0603 60O ±25%
+DCR=45mO 2.1A"                                                                                   
+USB-4      USB-A-S-X-X-TH    TopLayer USB-A-S-X-X-TH          91.4379      24.7827      180      ""                                                                                                               
+USB-3      USB-A-S-X-X-TH    TopLayer USB-A-S-X-X-TH          16.8549      -11.7083     90       ""                                                                                                               
+USB-2      USB-A-S-X-X-TH    TopLayer USB-A-S-X-X-TH          -21.2111     61.6557      0        ""                                                                                                               
+USB-1      USB-A-S-X-X-TH    TopLayer USB-A-S-X-X-TH          53.4309      101.8337     270      ""                                                                                                               
+DC-JACK    DC-Socket         TopLayer 694106301002            65.0710      35.0141      140      "DC Power Jack Connector WR-DC, Male, Right Angled, THT, 5 A, 24 V"                                              
+USB-0      USB-AM-S-F-B-TH   TopLayer USBAMSFBTH              45.1935      56.7333      90       Connector                                                                                                        
+IC3        SRV05-4.TCT       TopLayer SMTC-SOT23-6_V          44.4139      15.3427      180      "RailClamp(R) Low Capacitance TVS Diode Array, 5 pF, 17.5 VC, -55 to 125 degC, 6-Pin SOT23, RoHS, Tape and Reel" 
+IC2        SRV05-4.TCT       TopLayer SMTC-SOT23-6_V          25.2369      70.2067      0        "RailClamp(R) Low Capacitance TVS Diode Array, 5 pF, 17.5 VC, -55 to 125 degC, 6-Pin SOT23, RoHS, Tape and Reel" 
+IC1        SRV05-4.TCT       TopLayer SMTC-SOT23-6_V          40.2991      53.2903      90       "RailClamp(R) Low Capacitance TVS Diode Array, 5 pF, 17.5 VC, -55 to 125 degC, 6-Pin SOT23, RoHS, Tape and Reel" 
+C22        100n              TopLayer FP-C0603-CJ-MFG         94.4519      15.7237      90       "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C21        100u              TopLayer CAPPM6032X280N          87.5939      15.6337      90       "Capacitor Polarised"                                                                                            
+C20        100n              TopLayer FP-C0603-CJ-MFG         8.4729       -15.0103     0        "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C19        100u              TopLayer CAPPM6032X280N          7.2029       -9.1683      0        "Capacitor Polarised"                                                                                            
+C18        100n              TopLayer FP-C0603-CJ-MFG         -22.1341     68.9367      270      "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C17        100u              TopLayer CAPPM6032X280N          -13.7521     70.4237      270      "Capacitor Polarised"                                                                                            
+C16        100n              TopLayer FP-C0603-CJ-MFG         59.5523      106.6303     180      "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C15        100u              TopLayer CAPPM6032X280N          63.0459      96.7497      180      "Capacitor Polarised"                                                                                            
+C14        100u              TopLayer CAPPM6032X280N          71.5919      25.7567      270      "Capacitor Polarised"                                                                                            
+C13        100n              TopLayer FP-C0603-CJ-MFG         75.0209      25.3757      90       "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C12        100n              TopLayer FP-C0603-CJ-MFG         19.0139      31.9797      180      "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C11        10u               TopLayer CAPPM6032X280N          33.4919      31.4717      270      "Capacitor Polarised"                                                                                            
+C10        1u                TopLayer FP-C0603C105K3PACTU-MFG 31.8259      41.5047      0        "CAP CER 1UF 25V X5R 0603"                                                                                       
+C9         100n              TopLayer FP-C0603-CJ-MFG         31.8259      39.4727      180      "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C8         100n              TopLayer FP-C0603-CJ-MFG         26.6339      30.8367      270      "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C7         100n              TopLayer FP-C0603-CJ-MFG         32.8569      36.5517      180      "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C6         33p               TopLayer FP-CC0603-0_9-IPC_C     12.3409      39.0917      0        "CAP CER 33PF 50V C0G/NPO 0603"                                                                                  
+C5         33p               TopLayer FP-CC0603-0_9-IPC_C     10.3779      32.4877      180      "CAP CER 33PF 50V C0G/NPO 0603"                                                                                  
+C4         1u                TopLayer FP-C0603C105K3PACTU-MFG 18.1249      44.1717      180      "CAP CER 1UF 25V X5R 0603"                                                                                       
+C3         100n              TopLayer FP-C0603-CJ-MFG         18.2369      42.1397      0        "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C2         100n              TopLayer FP-C0603-CJ-MFG         17.7439      38.4567      0        "CAP CER 0.1UF 50V X7R 0603"                                                                                     
+C1         100n              TopLayer FP-C0603-CJ-MFG         17.8709      35.6627      0        "CAP CER 0.1UF 50V X7R 0603"                                                                                     
